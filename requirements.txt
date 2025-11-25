@@ -1,0 +1,7 @@
+spotipy
+lyricsgenius
+langdetect
+pandas
+better_profanity
+clean-text
+unidecode
